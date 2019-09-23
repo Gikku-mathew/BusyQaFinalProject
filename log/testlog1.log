@@ -1,0 +1,42 @@
+2018-11-04 07:14:48,357 [main] INFO Google - Browser Opened
+2018-11-04 07:14:49,956 [main] INFO Google - Url opened
+2018-11-04 07:14:50,025 [main] INFO Google - keyword type
+2018-11-24 14:38:14,520 [main] INFO TestBase - signin button clicked
+2019-01-10 17:38:50,850 [main] INFO TestBase - signin button clicked
+2019-01-10 17:40:13,715 [main] INFO TestBase - signin button clicked
+2019-01-10 17:42:41,569 [main] INFO TestBase - signin button clicked
+2019-01-10 17:43:03,979 [main] INFO TestBase - signin button clicked
+2019-01-12 20:26:23,070 [main] INFO TestBase - signin button clicked
+2019-01-12 20:27:15,852 [main] INFO TestBase - signin button clicked
+2019-01-12 20:28:14,853 [main] INFO TestBase - signin button clicked
+2019-01-12 20:28:36,622 [main] INFO TestBase - signin button clicked
+2019-09-18 14:47:52,604 [main] INFO TestBase - signin button clicked
+2019-09-18 14:47:53,794 [main] INFO TestBase - Credentials entered
+2019-09-21 17:16:42,604 [main] INFO TestBase - signin button clicked
+2019-09-21 17:16:44,251 [main] INFO TestBase - Credentials entered
+2019-09-22 13:06:15,528 [main] INFO TestBase - entered 1000 into amount box
+2019-09-22 13:06:23,120 [main] INFO TestBase - checked calender field
+2019-09-22 13:06:30,938 [main] INFO TestBase - entered message into descripton box
+2019-09-22 14:20:06,525 [main] INFO TestBase - entered 1000 into amount box
+2019-09-22 14:20:12,897 [main] INFO TestBase - checked calender field
+2019-09-22 14:20:19,206 [main] INFO TestBase - entered message into descripton box
+2019-09-22 14:28:13,846 [main] INFO TestBase - signin button clicked
+2019-09-22 14:28:15,934 [main] INFO TestBase - Credentials entered
+2019-09-22 14:29:12,411 [main] INFO TestBase - entered 1000 into amount box
+2019-09-22 14:29:20,407 [main] INFO TestBase - checked calender field
+2019-09-22 14:29:28,852 [main] INFO TestBase - entered message into descripton box
+2019-09-23 02:34:28,249 [main] INFO TestBase - expecting future date
+2019-09-23 02:35:21,824 [main] INFO TestBase - expecting future date
+2019-09-23 02:36:28,026 [main] INFO TestBase - expecting future date
+2019-09-23 02:37:40,890 [main] INFO TestBase - entered 1000 into amount box
+2019-09-23 02:37:50,951 [main] INFO TestBase - expecting future date
+2019-09-23 02:38:01,669 [main] INFO TestBase - entered message into descripton box
+2019-09-23 02:39:20,677 [main] INFO TestBase - entered 1000 into amount box
+2019-09-23 02:39:30,651 [main] INFO TestBase - expecting future date
+2019-09-23 02:39:40,647 [main] INFO TestBase - entered message into descripton box
+2019-09-23 02:41:46,577 [main] INFO TestBase - entered 1000 into amount box
+2019-09-23 02:41:54,794 [main] INFO TestBase - expecting future date
+2019-09-23 02:42:06,236 [main] INFO TestBase - entered message into descripton box
+2019-09-23 12:55:36,960 [main] INFO TestBase - entered 1000 into amount box
+2019-09-23 12:55:46,330 [main] INFO TestBase - expecting future date
+2019-09-23 12:55:55,149 [main] INFO TestBase - entered message into descripton box
